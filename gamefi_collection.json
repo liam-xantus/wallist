@@ -1,0 +1,65 @@
+{
+	"games": [{
+		"name": "Mones",
+		"description":"Mones is a Hero-collecting RPG where you collect over 200 hero characters, turn them into skilled warriors through training then fight in PvE/PvP battles to take over the kingdom.",
+		"logo_url":"https://mones.io/assests/images/Economy/Mones-icon-economy.png",
+		"creator":"Mones Game",
+		"genres":"RPG",
+		"items": [
+		{
+			"contract_address": "0xC0ad14889A5EfEC27760531439A8f6b109f046Bc",
+			"chain_id": 43114,
+			"collection_name": "Mones Hero"
+		}
+		]
+	},
+	{
+		"name": "Step Hero",
+		"description":"The one-stop shop for P2E gamers which brings you extraordinary gaming experience & lucrative earning opportunities.",
+		"logo_url":"https://cdn.stephero.io/static/step_hero_multiverse.png",
+		"creator":"StepHero Multiverse",
+		"genres":"RPG",
+		"items": [
+		{
+			"contract_address": "0xCB4Db2D1Cc5270C54ED01e3827455050F5574235",
+			"chain_id": 56,
+			"collection_name": "Step Hero",
+		},
+		{
+			"contract_address": "0xD34FFB0D4073195cc5ea0402DC47C704aa8502C1",
+			"chain_id": 56,
+			"collection_name": "Step Hero Chest",
+		},
+		{
+			"contract_address": "0x51520D4Cb1e348e74608Bc5014590E295Ca9C334",
+			"chain_id": 56,
+			"collection_name": "Step Hero Chest V2",
+		},
+		{
+			"contract_address": "0xFEdad9D989f646f124FBb0DA551a242a63BA9de7",
+			"chain_id": 56,
+			"collection_name": "Step Hero Equipment",
+		}
+		]
+	},
+	{
+		"name": "Gunfire Hero",	
+		"description":"Gunfire Hero is the second blockchain game in the Step Hero Play-to-earn Multiverse. Gunfire Hero is a combat shooter game that features automatic shooting gameplay, players only need to control the movement of the character, the shooting is completely automatic, and the monsters will have no place to hide.",
+		"logo_url":"https://cdn.stephero.io/landing/static/img/game/gunfire/logo.png",
+		"creator":"StepHero Multiverse",
+		"genres":"Action Casual Run-&-Gun",
+		"items": [
+		{
+			"contract_address": "0xc7415169B2c637F58D2A995B1C720a4d4e64D80E",
+			"chain_id": 56,
+			"collection_name": "Gunfire"
+		},
+		{
+			"contract_address": "0xA816c3Ff9725d1629040c1025F22d3b86367b331",
+			"chain_id": 56,
+			"collection_name": "Gunfire Chest"
+		}
+		]
+	}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"games": [{
+		"name": "Mones",
+		"description":"Mones is a Hero-collecting RPG where you collect over 200 hero characters, turn them into skilled warriors through training then fight in PvE/PvP battles to take over the kingdom.",
+		"logo_url":"https://mones.io/assests/images/Economy/Mones-icon-economy.png",
+		"creator":"Mones Game",
+		"genres":"RPG",
+		"items": [
+		{
+			"contract_address": "0xC7FC0E4E884984b659125Fc4339d13d7c3289789",
+			"chain_id": 43113,
+			"collection_name": "Mones Hero"
+		},
+		{
+			"contract_address": "0xe59a9602812fa554F46490Ae63F71E344ED5230A",
+			"chain_id": 43113,
+			"collection_name": "Mones Equipment"
+		},
+		{
+			"contract_address": "0x08fcbc216A054923f53CDc3d46396b1F443175E8",
+			"chain_id": 43113,
+			"collection_name": "Mones Material"
+		},
+		{
+			"contract_address": "0x57bf666A1D3D763b15A4e2F390026121097f9C0f",
+			"chain_id": 43113,
+			"collection_name": "Mones Hero Chest"
+		},
+		{
+			"contract_address": "0x95DF96c84a7566739339EF5d9F4BD849C2DbEb38",
+			"chain_id": 43113,
+			"collection_name": "Mones Equipment Chest"
+		},
+		],
+	},
+	{
+		"name": "Step Hero",
+		"description":"The one-stop shop for P2E gamers which brings you extraordinary gaming experience & lucrative earning opportunities.",
+		"logo_url":"https://cdn.stephero.io/static/step_hero_multiverse.png",
+		"creator":"StepHero Multiverse",
+		"genres":"RPG",
+		"items": [
+		{
+			"contract_address": "0x17C79D387F8F16FA8A4f44864812FbA41f72De70",
+			"chain_id": 97,
+			"collection_name": "Step Hero"
+		},
+		{
+			"contract_address": "0x206Edd24D5Cc90c5c789b8591f34D7E972C55874",
+			"chain_id": 97,
+			"collection_name": "Step Hero Chest"
+		},
+		{
+			"contract_address": "0x251FdDe7BfDBcFd4e5cC60cB0Ef7D72CF405C10d",
+			"chain_id": 97,
+			"collection_name": "Step Hero Chest V2"
+		},
+		{
+			"contract_address": "0x024E39D951C49569612ACd4ACa05fB226b00eEE7",
+			"chain_id": 97,
+			"collection_name": "Step Hero Equipment"
+		}
+		]
+	},
+	{
+		"name": "Gunfire Hero",	
+		"description":"Gunfire Hero is the second blockchain game in the Step Hero Play-to-earn Multiverse. Gunfire Hero is a combat shooter game that features automatic shooting gameplay, players only need to control the movement of the character, the shooting is completely automatic, and the monsters will have no place to hide.",
+		"logo_url":"https://cdn.stephero.io/landing/static/img/game/gunfire/logo.png",
+		"creator":"StepHero Multiverse",
+		"genres":"Action Casual Run-&-Gun",
+		"items": [
+		{
+			"contract_address": "0xeBFD6A90534e30B22B25232C74661b822E13743D",
+			"chain_id": 97,
+			"collection_name": "Gunfire"
+		},
+		{
+			"contract_address": "0xeBFD6A90534e30B22B25232C74661b822E13743D",
+			"chain_id": 97,
+			"collection_name": "Gunfire Chest"
+		}
+		]
+	}
+	]
+}
