@@ -2,7 +2,8 @@
 	"games": [{
 		"name": "Mones",
 		"description":"Mones is a Hero-collecting RPG where you collect over 200 hero characters, turn them into skilled warriors through training then fight in PvE/PvP battles to take over the kingdom.",
-		"logo_url":"https://mones.io/assests/images/Economy/Mones-icon-economy.png",
+		"logo_url":"https://cdn.mones.io/static/mones-collection-logo.png",
+		"cover_url":"https://cdn.mones.io/static/mones-collection-cover.png",
 		"creator":"Mones Game",
 		"genres":"RPG",
 		"items": [
@@ -36,7 +37,8 @@
 	{
 		"name": "Step Hero",
 		"description":"The one-stop shop for P2E gamers which brings you extraordinary gaming experience & lucrative earning opportunities.",
-		"logo_url":"https://cdn.stephero.io/static/step_hero_multiverse.png",
+		"logo_url":"https://cdn.stephero.io/static/stephero-collection-logo.png",
+		"cover_url":"https://cdn.stephero.io/static/stephero-collection-cover.png",
 		"creator":"StepHero Multiverse",
 		"genres":"RPG",
 		"items": [
@@ -65,7 +67,8 @@
 	{
 		"name": "Gunfire Hero",	
 		"description":"Gunfire Hero is the second blockchain game in the Step Hero Play-to-earn Multiverse. Gunfire Hero is a combat shooter game that features automatic shooting gameplay, players only need to control the movement of the character, the shooting is completely automatic, and the monsters will have no place to hide.",
-		"logo_url":"https://cdn.stephero.io/landing/static/img/game/gunfire/logo.png",
+		"logo_url":"https://cdn.stephero.io/static/gunfirehero-collection-logo.png",
+		"cover_url":"https://cdn.stephero.io/static/gunfirehero-collection-cover.png",
 		"creator":"StepHero Multiverse",
 		"genres":"Action Casual Run-&-Gun",
 		"items": [
@@ -77,6 +80,26 @@
 		{
 			"contract_address": "0xf15DE60AF24A5B12d17437b4ab476dCB4725D2c8",
 			"chain_id": 97,
+			"collection_name": "Gunfire Chest"
+		}
+		]
+	},
+	{
+		"name": "Gunfire Avax",	
+		"description":"Gunfire Hero is the second blockchain game in the Step Hero Play-to-earn Multiverse. Gunfire Hero is a combat shooter game that features automatic shooting gameplay, players only need to control the movement of the character, the shooting is completely automatic, and the monsters will have no place to hide.",
+		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+		"creator":"Gunfire",
+		"genres":"Action Casual Run-&-Gun",
+		"items": [
+		{
+			"contract_address": "0x86dB580d11b8dA0c16FeD2c8010187350747e522",
+			"chain_id": 43113,
+			"collection_name": "Gunfire"
+		},
+		{
+			"contract_address": "0x347f10f2D338cC20c3a9E266B9c825AB056F39F2",
+			"chain_id": 43113,
 			"collection_name": "Gunfire Chest"
 		}
 		]
