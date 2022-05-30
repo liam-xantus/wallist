@@ -8,8 +8,8 @@
 		"genres":"RPG",
 		"items": [
 		{
-			"contract_address": "0xC0ad14889A5EfEC27760531439A8f6b109f046Bc",
-			"chain_id": 43114,
+			"contract_address": "0x89c68098aF9FD68E0B95e75E96164cd268B70c00",
+			"chain_id": 56,
 			"collection_name": "Mones Hero"
 		}
 		]
