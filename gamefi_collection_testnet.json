@@ -36,8 +36,8 @@
 			"chain_id": 43113,
 			"collection_name": "Mones Equipment Chest",
 			"template_uri": "https://metadata.mones.io/chestEquipment/%s"
-		},
-		],
+		}
+		]
 	},
 	{
 		"name": "Step Hero",
