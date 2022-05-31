@@ -10,7 +10,8 @@
 		{
 			"contract_address": "0x89c68098aF9FD68E0B95e75E96164cd268B70c00",
 			"chain_id": 56,
-			"collection_name": "Mones Hero"
+			"collection_name": "Mones Hero",
+			"template_uri": "https://metadata.mones.io/heroes/%s"
 		}
 		]
 	},
@@ -26,21 +27,25 @@
 			"contract_address": "0xCB4Db2D1Cc5270C54ED01e3827455050F5574235",
 			"chain_id": 56,
 			"collection_name": "Step Hero",
+			"template_uri": "https://api.stephero.io/v1/heroes/%s.json"
 		},
 		{
 			"contract_address": "0xD34FFB0D4073195cc5ea0402DC47C704aa8502C1",
 			"chain_id": 56,
 			"collection_name": "Step Hero Chest",
+			"template_uri": "https://cdn.stephero.io/chest/%s.json"
 		},
 		{
 			"contract_address": "0x51520D4Cb1e348e74608Bc5014590E295Ca9C334",
 			"chain_id": 56,
 			"collection_name": "Step Hero Chest V2",
+			"template_uri": "https://cdn.stephero.io/chestV2/%s.json"
 		},
 		{
 			"contract_address": "0xFEdad9D989f646f124FBb0DA551a242a63BA9de7",
 			"chain_id": 56,
 			"collection_name": "Step Hero Equipment",
+			"template_uri": "https://cdn.stephero.io/stephero/equipment/%s.json"
 		}
 		]
 	},
@@ -55,12 +60,14 @@
 		{
 			"contract_address": "0xc7415169B2c637F58D2A995B1C720a4d4e64D80E",
 			"chain_id": 56,
-			"collection_name": "Gunfire"
+			"collection_name": "Gunfire",
+			"template_uri": "https://cdn.stephero.io/gunfire/%s.json"
 		},
 		{
 			"contract_address": "0xA816c3Ff9725d1629040c1025F22d3b86367b331",
 			"chain_id": 56,
-			"collection_name": "Gunfire Chest"
+			"collection_name": "Gunfire Chest",
+			"template_uri": "https://cdn.stephero.io/gunfire/chest/%s.json"
 		}
 		]
 	}
