@@ -6,6 +6,7 @@
 		"cover_url":"https://cdn.mones.io/static/mones-collection-cover.png",
 		"creator":"Mones Game",
 		"genres":"RPG",
+		"chain_id": 56,
 		"collections": [
 		{
 			"contract_address": "0x89c68098aF9FD68E0B95e75E96164cd268B70c00",
@@ -22,6 +23,7 @@
 		"cover_url":"https://cdn.stephero.io/static/stephero-collection-cover.png",
 		"creator":"StepHero Multiverse",
 		"genres":"RPG",
+		"chain_id": 56,
 		"collections": [
 		{
 			"contract_address": "0xCB4Db2D1Cc5270C54ED01e3827455050F5574235",
@@ -56,6 +58,7 @@
 		"cover_url":"https://cdn.stephero.io/static/gunfirehero-collection-cover.png",
 		"creator":"StepHero Multiverse",
 		"genres":"Action Casual Run-&-Gun",
+		"chain_id": 56,
 		"collections": [
 		{
 			"contract_address": "0xc7415169B2c637F58D2A995B1C720a4d4e64D80E",
