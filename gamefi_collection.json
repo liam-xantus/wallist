@@ -70,6 +70,28 @@
 			"template_uri": "https://api.stephero.io/gunfire/chest/%s.json"
 		}
 		]
+	},
+	{
+		"name": "Gunfire Avax",	
+		"description":"Gunfire AVAX is an old-school style 2D NFT project based on #Avalanche. Designed with the users at heart, GF AVAX will undoubtedly revolutionize the NFT games ecosystem on the Avalanche network with an easy, intuitive gameplay and innovative economic mechanism.",
+		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+		"creator":"Gunfire Avax",
+		"genres":"Action Casual Run-&-Gun",
+		"collections": [
+		{
+			"contract_address": "0xc4957dc87e1CBD031621f9AAE8346c35384d4E69",
+			"chain_id": 43114,
+			"collection_name": "Gunfire NFTs",
+			"template_uri": "https://api.gunfireavax.io/nft/%s.json"
+		},
+		{
+			"contract_address": "0x1482E9509117792cDecf9d3AEA2F203c563c8216",
+			"chain_id": 43114,
+			"collection_name": "Gunfire Chest",
+			"template_uri": "https://api.gunfireavax.io/chest/%s.json"
+		}
+		]
 	}
 	]
 }
