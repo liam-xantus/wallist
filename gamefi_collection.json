@@ -83,7 +83,7 @@
 			"contract_address": "0xc4957dc87e1CBD031621f9AAE8346c35384d4E69",
 			"chain_id": 43114,
 			"collection_name": "Gunfire NFTs",
-			"template_uri": "https://api.gunfireavax.io/nft/%s.json"
+			"template_uri": "https://api.gunfireavax.io/o/nft/%s"
 		},
 		{
 			"contract_address": "0x1482E9509117792cDecf9d3AEA2F203c563c8216",
