@@ -92,6 +92,88 @@
 			"template_uri": "https://api.gunfireavax.io/chest/%s.json"
 		}
 		]
+	},
+	{
+		"name": "SecondLive",	
+		"description":"SecondLive Description",
+		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+		"creator":"SecondLive",
+		"genres":"Action",
+		"collections": [
+		{
+			"contract_address": "0x17316bb0b16a57177272dd88617841037bcec3d3",
+			"chain_id": 56,
+			"collection_name": "SecondLive",
+			"template_uri": "https://api.secondlive.world/api/v1/erc721/metadata/bsc/%s"
+		}
+		]
+	},
+	{
+		"name": "Sunflower Land",	
+		"description":"Sunflower Land Description",
+		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+		"creator":"Sunflower Land",
+		"genres":"Action",
+		"collections": [
+		{
+			"contract_address": "0x2b4a66557a79263275826ad31a4cddc2789334bd",
+			"chain_id": 137,
+			"collection_name": "Sunflower Land",
+			"template_uri": "https://api.sunflower-land.com/nfts/farm/%s"
+		}
+		]
+	},
+	{
+		"name": "X world",
+		"description":"x-world-games Description",
+		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+		"creator":"X world Land",
+		"genres":"Action",
+		"collections": [
+		{
+			"contract_address": "0x3c506da0e74ce74ec23a9f0316013f751e431b89",
+			"chain_id": 56,
+			"collection_name": "XWorld Talent",
+			"template_uri": "https://metadata.nft.xwg.games/7/%s"
+		},
+		{
+			"contract_address": "0xbe6bfe2cd66f2d9721186717cfa8dd99ef43c0bd",
+			"chain_id": 56,
+			"collection_name": "XWG DC Level Prize",
+			"template_uri": "https://metadata.nft.xwg.games/5/%s"
+		},
+		{
+			"contract_address": "0xe6965b4f189dbdb2bd65e60abaeb531b6fe9580b",
+			"chain_id": 56,
+			"collection_name": "DreamCard",
+			"template_uri": "https://apinft.xwg.games/bscnft/%s"
+		}
+		]
+	},
+	{
+		"name": "Squid NFT World",
+		"description":"squid-nft-world Description",
+		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+		"creator":"squid-nft-world Land",
+		"genres":"squid",
+		"collections": [
+		{
+			"contract_address": "0x6d57712416ed4890e114a37e2d84ab8f9cee4752",
+			"chain_id": 56,
+			"collection_name": "Biswap Squid Buses",
+			"template_uri": "https://squid-nft.io/back/metadata/bus/%s"
+		},
+		{
+			"contract_address": "0xb00ed7e3671af2675c551a1c26ffdcc5b425359b",
+			"chain_id": 56,
+			"collection_name": "Biswap Squid Players",
+			"template_uri": "https://squid-nft.io/back/metadata/player/%s"
+		}
+		]
 	}
 	]
 }
