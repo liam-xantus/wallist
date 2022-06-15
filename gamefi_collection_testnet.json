@@ -106,7 +106,7 @@
 			"contract_address": "0x86dB580d11b8dA0c16FeD2c8010187350747e522",
 			"chain_id": 43113,
 			"collection_name": "Gunfire",
-			"template_uri": "https://api.gunfireavax.io/nft/%s.json"
+			"template_uri": "https://api.gamehub.dev.xantus.dev/o/nft/%s"
 		},
 		{
 			"contract_address": "0x347f10f2D338cC20c3a9E266B9c825AB056F39F2",
