@@ -125,7 +125,7 @@
 		"genres":"Action Casual",
 		"collections": [
 		{
-			"contract_address": "0x7503965579cD158a2bD061C12C90959b9D7bFde9",
+			"contract_address": "0x880B49C2b14a7947AEf445F2747639722C5F6423",
 			"chain_id": 97,
 			"collection_name": "Doges",
 			"template_uri": "https://izwq5k30os13.usemoralis.com:2053/server/functions/doge?id=%s"
