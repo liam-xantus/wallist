@@ -115,6 +115,22 @@
 			"template_uri": "https://api.gunfireavax.io/chest/%s.json"
 		}
 		]
+	},
+	{
+		"name": "Metadoge",
+		"description":"Metadoge is an BSC blockchain ecosystem of Space Doge that includes many entertaining products. All products of Metadoge use the same Metadoge NFTs and all play an important role in the economy system.",
+		"logo_url":"https://metadoge.ai/images/doges/metadoge-logo.png",
+		"cover_url":"https://metadoge.ai/images/doges/metadoge-cover.png",
+		"creator":"Dream Holdings",
+		"genres":"Action Casual",
+		"collections": [
+		{
+			"contract_address": "0x880B49C2b14a7947AEf445F2747639722C5F6423",
+			"chain_id": 97,
+			"collection_name": "Doges",
+			"template_uri": "https://testnet-oxalus.metadoge.ai/doge/%s"
+		}
+		]
 	}
 	]
 }
