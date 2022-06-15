@@ -128,7 +128,7 @@
 			"contract_address": "0x880B49C2b14a7947AEf445F2747639722C5F6423",
 			"chain_id": 97,
 			"collection_name": "Doges",
-			"template_uri": "https://s1fvaf8w7ydt.usemoralis.com:2053/server/functions/doge?id=%s"
+			"template_uri": "https://testnet-oxalus.metadoge.ai/doge/%s"
 		}
 		]
 	}
