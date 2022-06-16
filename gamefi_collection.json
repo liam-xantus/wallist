@@ -6,6 +6,7 @@
 		"cover_url":"https://cdn.mones.io/static/mones-collection-cover.png",
 		"creator":"Mones Game",
 		"genres":"RPG",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0x89c68098aF9FD68E0B95e75E96164cd268B70c00",
@@ -22,6 +23,7 @@
 		"cover_url":"https://cdn.stephero.io/static/stephero-collection-cover.png",
 		"creator":"StepHero Multiverse",
 		"genres":"RPG",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0xCB4Db2D1Cc5270C54ED01e3827455050F5574235",
@@ -56,6 +58,7 @@
 		"cover_url":"https://cdn.stephero.io/static/gunfirehero-collection-cover.png",
 		"creator":"StepHero Multiverse",
 		"genres":"Action Casual Run-&-Gun",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0xc7415169B2c637F58D2A995B1C720a4d4e64D80E",
@@ -78,6 +81,7 @@
 		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
 		"creator":"Gunfire Avax",
 		"genres":"Action Casual Run-&-Gun",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0xc4957dc87e1CBD031621f9AAE8346c35384d4E69",
@@ -100,6 +104,7 @@
 		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
 		"creator":"SecondLive",
 		"genres":"Action",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0x17316bb0b16a57177272dd88617841037bcec3d3",
@@ -116,6 +121,7 @@
 		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
 		"creator":"Sunflower Land",
 		"genres":"Action",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0x2b4a66557a79263275826ad31a4cddc2789334bd",
@@ -132,6 +138,7 @@
 		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
 		"creator":"X world Land",
 		"genres":"Action",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0x3c506da0e74ce74ec23a9f0316013f751e431b89",
@@ -160,6 +167,7 @@
 		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
 		"creator":"squid-nft-world Land",
 		"genres":"squid",
+        "type": "featured",
 		"collections": [
 		{
 			"contract_address": "0x6d57712416ed4890e114a37e2d84ab8f9cee4752",
@@ -181,6 +189,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crabada",
@@ -196,6 +205,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "crypto-companions",
@@ -211,6 +221,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Arazm Gift Chest",
@@ -226,6 +237,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "DVI 721",
@@ -241,6 +253,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Elpis Metaverse Equipment",
@@ -262,6 +275,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Kingdom NFT",
@@ -277,6 +291,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MarsColony",
@@ -292,6 +307,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "GOD",
@@ -307,6 +323,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MonsterMerchantHero",
@@ -322,6 +339,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Slime Souvenir",
@@ -337,6 +355,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "StarMon Origin",
@@ -358,6 +377,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WastedWarrior",
@@ -373,6 +393,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Wanaka Land",
@@ -388,6 +409,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Aquathereum Module",
@@ -409,6 +431,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Avarik Saga",
@@ -424,6 +447,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Blockstates.io",
@@ -439,6 +463,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoChampions",
@@ -466,6 +491,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoColors",
@@ -481,6 +507,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "cryptoelements",
@@ -496,6 +523,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Kicker",
@@ -511,6 +539,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoKitties",
@@ -526,6 +555,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMemes",
@@ -541,6 +571,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptopinions",
@@ -556,6 +587,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dark Country Card",
@@ -583,6 +615,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherDank.com",
@@ -598,6 +631,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ethero",
@@ -613,6 +647,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Farm Land by Pixels",
@@ -628,6 +663,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Illuvium",
@@ -643,6 +679,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ImperialThrone Ticket",
@@ -664,6 +701,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoJockey",
@@ -679,6 +717,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Pinkslip NFT",
@@ -694,6 +733,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "PlanetCrypto",
@@ -727,6 +767,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "RigCraftPresalePackage",
@@ -742,6 +783,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Shabu Town Shibas",
@@ -757,6 +799,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSocialMedia",
@@ -772,6 +815,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Voxies",
@@ -787,6 +831,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "0xAminoBoost",
@@ -814,6 +859,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Yield Hunt",
@@ -829,6 +875,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Abell Survivor",
@@ -844,6 +891,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ArmzLegendsV2",
@@ -859,6 +907,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Heroes And Weapons",
@@ -874,6 +923,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BYGSpaceShip",
@@ -895,6 +945,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPuffs",
@@ -910,6 +961,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "DemiKnight",
@@ -931,6 +983,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Hashland NFT",
@@ -946,6 +999,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NASH Meta Universe Star Ship",
@@ -961,6 +1015,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "PROT new-armz.app",
@@ -976,6 +1031,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Pet Kingdom Mars",
@@ -1009,6 +1065,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WarriorNFT",
@@ -1024,6 +1081,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Zodium12KINDs",
@@ -1039,6 +1097,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Arcona Digital Land",
@@ -1054,6 +1113,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BlockCities",
@@ -1069,6 +1129,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Brave Frontier Heroes",
@@ -1084,6 +1145,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Castle Buidl Pieces",
@@ -1105,6 +1167,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CheezeWizard",
@@ -1120,6 +1183,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptant Crab",
@@ -1135,6 +1199,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPoos",
@@ -1150,6 +1215,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Bags",
@@ -1165,6 +1231,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoTwitch",
@@ -1180,6 +1247,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoConquest",
@@ -1195,6 +1263,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptocup",
@@ -1210,6 +1279,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoDozer Legacy",
@@ -1231,6 +1301,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoFighters",
@@ -1246,6 +1317,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptogirl",
@@ -1261,6 +1333,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoGit.co",
@@ -1276,6 +1349,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "God Power Coin",
@@ -1291,6 +1365,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptohero.pro",
@@ -1306,6 +1381,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoHongKong.io",
@@ -1321,6 +1397,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMovies",
@@ -1336,6 +1413,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CrypoPizzas",
@@ -1351,6 +1429,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSports Football Fantasy Sports",
@@ -1366,6 +1445,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoStamps",
@@ -1381,6 +1461,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ETH10K.io",
@@ -1396,6 +1477,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherColors",
@@ -1411,6 +1493,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherLambos",
@@ -1426,6 +1509,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ethernauts",
@@ -1465,6 +1549,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Etherpoly",
@@ -1480,6 +1565,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "etherwaifus",
@@ -1495,6 +1581,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherCountries.io Country",
@@ -1510,6 +1597,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Galaget GA-NFT",
@@ -1525,6 +1613,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LandGrab",
@@ -1540,6 +1629,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Realitic",
@@ -1555,6 +1645,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "OwnTheDay.io Days",
@@ -1570,6 +1661,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Pepper Attack",
@@ -1585,6 +1677,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "REPOP WORLD",
@@ -1600,6 +1693,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CipherShooters operator",
@@ -1621,6 +1715,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Decentribes",
@@ -1636,6 +1731,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NYW_Large_Yacht",
@@ -1651,6 +1747,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Mystic Pepper",
@@ -1666,6 +1763,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Avax Wolf Game V2",
@@ -1681,6 +1779,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Avaxtars",
@@ -1696,6 +1795,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BeyondMedieval",
@@ -1711,6 +1811,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BasCollectable",
@@ -1726,6 +1827,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Buni Universal Ticket",
@@ -1759,6 +1861,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "celestial",
@@ -1864,6 +1967,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoZoon NFT",
@@ -1879,6 +1983,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Defi Warrior BodyPart NFT",
@@ -1894,6 +1999,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Freeport Metaverse PFP NFT",
@@ -1915,6 +2021,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoKOI",
@@ -1930,6 +2037,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Mekabot",
@@ -1951,6 +2059,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Mercenary Mercenary",
@@ -1978,6 +2087,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MyRichFarm",
@@ -1993,6 +2103,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NFTMAKE.COM",
@@ -2008,6 +2119,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Arcane Characters",
@@ -2023,6 +2135,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ULAND NFT",
@@ -2038,6 +2151,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Clash of Streamers Pets",
@@ -2059,6 +2173,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoTakeoversNFT",
@@ -2074,6 +2189,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCountries.io Countries",
@@ -2089,6 +2205,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoLibraries",
@@ -2104,6 +2221,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptopainting.top",
@@ -2119,6 +2237,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPlaces",
@@ -2134,6 +2253,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Race Token",
@@ -2155,6 +2275,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoServal",
@@ -2176,6 +2297,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "csc-crypto-space-commander",
@@ -2197,6 +2319,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoThreeKingdoms.io",
@@ -2212,6 +2335,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherMeals",
@@ -2227,6 +2351,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WORD",
@@ -2242,6 +2367,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EvolutionLand",
@@ -2257,6 +2383,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Kingdoms Beyond",
@@ -2272,6 +2399,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Loot TH",
@@ -2287,6 +2415,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Acclimated\u200bMoonCats",
@@ -2302,6 +2431,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MyCryptoHeroes",
@@ -2317,6 +2447,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Nifty Football Trading Card",
@@ -2332,6 +2463,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Piggericks",
@@ -2347,6 +2479,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Pirate Conquest Token",
@@ -2380,6 +2513,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Reality Clash Weapon",
@@ -2395,6 +2529,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Sidus NFT Heroes",
@@ -2410,6 +2545,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Somnium Space Avatars",
@@ -2443,6 +2579,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Spells of Genesis Askian Card",
@@ -2458,6 +2595,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ledger of Szabo NFT",
@@ -2473,6 +2611,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "TidesOfMagic",
@@ -2494,6 +2633,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "TKFR",
@@ -2509,6 +2649,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoRaiders",
@@ -2524,6 +2665,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "IdleHero",
@@ -2539,6 +2681,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LaborChick",
@@ -2578,6 +2721,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Zodiac Cards - The Genesis",
@@ -2593,6 +2737,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CatNIP NFT",
@@ -2608,6 +2753,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMines Worker",
@@ -2629,6 +2775,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Weapons",
@@ -2644,6 +2791,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Epic Hero 3D NFT",
@@ -2665,6 +2813,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "FateOrigin NFT",
@@ -2680,6 +2829,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Lucid Lands Heroes",
@@ -2701,6 +2851,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Noft Token",
@@ -2716,6 +2867,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "RobotWars Sword NFT",
@@ -2737,6 +2889,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "TAP FANTASY SKIN",
@@ -2752,6 +2905,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Wizardium",
@@ -2767,6 +2921,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherGreys",
@@ -2788,6 +2943,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Chibi Fighters",
@@ -2809,6 +2965,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Citadel Of The Machines",
@@ -2824,6 +2981,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoBurrito.co Burrito",
@@ -2839,6 +2997,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "cryptosports.top",
@@ -2854,6 +3013,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Ninja Game Ninja",
@@ -2875,6 +3035,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoBots",
@@ -2890,6 +3051,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoEmoji",
@@ -2905,6 +3067,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CrypoPhones",
@@ -2920,6 +3083,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ETH.TOWN Hero",
@@ -2935,6 +3099,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dungeon",
@@ -2956,6 +3121,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherCup2018",
@@ -2971,6 +3137,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherDragons",
@@ -2986,6 +3153,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherSpace",
@@ -3001,6 +3169,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EthPizzeria",
@@ -3016,6 +3185,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Fishbank Boosters",
@@ -3061,6 +3231,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "mannys.game",
@@ -3076,6 +3247,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MobSquads",
@@ -3097,6 +3269,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Mythereum Card",
@@ -3112,6 +3285,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Neon District In-Game Item",
@@ -3139,6 +3313,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Parsec Initial Ship",
@@ -3154,6 +3329,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Settlements",
@@ -3175,6 +3351,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "SuperPlayerEquipment",
@@ -3190,6 +3367,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Virtualand Technology Lands",
@@ -3205,6 +3383,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "War Riders",
@@ -3220,6 +3399,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WorldCupToken",
@@ -3235,6 +3415,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "VeggiesFarm",
@@ -3250,6 +3431,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ZED Horse",
@@ -3265,6 +3447,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Binemon Gem",
@@ -3280,6 +3463,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BINO house",
@@ -3295,6 +3479,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crusaders of Crypto NFTs",
@@ -3310,6 +3495,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CHUMLY_NFT",
@@ -3325,6 +3511,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoBay Ship",
@@ -3346,6 +3533,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Race Token",
@@ -3361,6 +3549,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WolfPacksNFT",
@@ -3394,6 +3583,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Defina Card",
@@ -3409,6 +3599,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Formula E: High Voltage",
@@ -3424,6 +3615,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Goblin Token",
@@ -3439,6 +3631,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "KriggerHero",
@@ -3454,6 +3647,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MonsterNFT",
@@ -3469,6 +3663,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Kingdom",
@@ -3520,6 +3715,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LandCrates",
@@ -3547,6 +3743,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ZooNFT",
@@ -3562,6 +3759,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ZUKIMOBA",
@@ -3577,6 +3775,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Battle Derps",
@@ -3592,6 +3791,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BLOCKLORDS",
@@ -3607,6 +3807,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "TestChibis",
@@ -3622,6 +3823,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSanguo.io",
@@ -3637,6 +3839,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMayor.io City",
@@ -3652,6 +3855,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Tittiez",
@@ -3667,6 +3871,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoBeasties",
@@ -3682,6 +3887,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCollectorContract",
@@ -3697,6 +3903,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptogs",
@@ -3724,6 +3931,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMemes",
@@ -3739,6 +3947,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoTubers",
@@ -3754,6 +3963,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dragon Of Midgard",
@@ -3769,6 +3979,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Eggrypto",
@@ -3784,6 +3995,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherCup",
@@ -3799,6 +4011,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherEmojis",
@@ -3814,6 +4027,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherWaifus",
@@ -3829,6 +4043,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Frontier Game",
@@ -3844,6 +4059,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HashKingsPlanet",
@@ -3859,6 +4075,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "KnightStory Item",
@@ -3874,6 +4091,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "League of Kingdoms Resource",
@@ -3895,6 +4113,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptons",
@@ -3910,6 +4129,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Solethium",
@@ -3925,6 +4145,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Stryking",
@@ -3940,6 +4161,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "TapKeys",
@@ -3955,6 +4177,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Token Tycoon Wonders",
@@ -3976,6 +4199,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "AquaticWars",
@@ -3991,6 +4215,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dragon Master Box",
@@ -4006,6 +4231,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "FancyBirds",
@@ -4027,6 +4253,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Prophecies Prophet",
@@ -4048,6 +4275,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Voucher",
@@ -4063,6 +4291,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "AlienWorlds-NFT",
@@ -4078,6 +4307,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Block Creatures",
@@ -4093,6 +4323,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CP-NFT",
@@ -4108,6 +4339,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoTycoon NFT",
@@ -4123,6 +4355,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crystal Kingdoms Heroes",
@@ -4144,6 +4377,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "DBS Collectibles",
@@ -4183,6 +4417,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "elfin",
@@ -4198,6 +4433,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ForthBox Ham NFT",
@@ -4231,6 +4467,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LG Essence Ticket",
@@ -4246,6 +4483,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "SharNFT",
@@ -4261,6 +4499,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "YONFT",
@@ -4276,6 +4515,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "AVStars",
@@ -4291,6 +4531,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Axie",
@@ -4306,6 +4547,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Blockchina.io",
@@ -4321,6 +4563,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "crypto-racing-league",
@@ -4336,6 +4579,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCelebrities",
@@ -4351,6 +4595,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCities",
@@ -4372,6 +4617,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCrystal",
@@ -4387,6 +4633,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoHorseShoe",
@@ -4414,6 +4661,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cryptonames.cc",
@@ -4429,6 +4677,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSolarSystem.cc",
@@ -4444,6 +4693,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherNumbers",
@@ -4465,6 +4715,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EthersArk Token",
@@ -4480,6 +4731,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherAthlete",
@@ -4495,6 +4747,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherGames",
@@ -4510,6 +4763,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherVillains",
@@ -4525,6 +4779,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Piranha",
@@ -4546,6 +4801,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Flower",
@@ -4561,6 +4817,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Footbattle",
@@ -4576,6 +4833,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "FrameCBattle",
@@ -4591,6 +4849,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Giftomon",
@@ -4606,6 +4865,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Heroes of Evermore",
@@ -4621,6 +4881,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "KittyEthPics",
@@ -4636,6 +4897,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "B2E NFT",
@@ -4651,6 +4913,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MegaCryptoPolis",
@@ -4666,6 +4929,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LetterToken307",
@@ -4687,6 +4951,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NFT Worlds",
@@ -4702,6 +4967,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Niftymoji",
@@ -4717,6 +4983,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "SuperCountries",
@@ -4732,6 +4999,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Goo Clan",
@@ -4747,6 +5015,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MCP Vehicle",
@@ -4798,6 +5067,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HON - Heroes Token",
@@ -4813,6 +5083,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NFTBearV2",
@@ -4828,6 +5099,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BinamarsNFT",
@@ -4843,6 +5115,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Space War Item",
@@ -4858,6 +5131,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EagleGame Mint Pass",
@@ -4873,6 +5147,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Foxy NFT",
@@ -4888,6 +5163,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HappyLand Land NFT",
@@ -4903,6 +5179,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "My DeFi Pet",
@@ -4918,6 +5195,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NFTBearV2",
@@ -4933,6 +5211,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NFUT ASSETS",
@@ -4948,6 +5227,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ShibaGalaxyNFT",
@@ -4969,6 +5249,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Xssap Keychain NFT",
@@ -4984,6 +5265,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Battle Racers",
@@ -4999,6 +5281,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPoliticians",
@@ -5014,6 +5297,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoWaifus",
@@ -5029,6 +5313,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoAssaultUnit",
@@ -5044,6 +5329,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCup",
@@ -5059,6 +5345,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoHoroscopes",
@@ -5074,6 +5361,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "KiddyToys",
@@ -5089,6 +5377,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Marble",
@@ -5104,6 +5393,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoT",
@@ -5119,6 +5409,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoWatches",
@@ -5134,6 +5425,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "dapcar",
@@ -5149,6 +5441,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dark Winds First Edition Cards",
@@ -5170,6 +5463,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "DopeRaider",
@@ -5185,6 +5479,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dragonereum Dragon",
@@ -5206,6 +5501,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ether League Hero Token",
@@ -5221,6 +5517,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtheremonMonster",
@@ -5248,6 +5545,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ethermore",
@@ -5263,6 +5561,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ethmoji",
@@ -5278,6 +5577,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HumanityCards",
@@ -5293,6 +5593,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "INFAMOUSSKULLZ",
@@ -5308,6 +5609,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Infinity Star",
@@ -5323,6 +5625,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Guardians of the Metaverse",
@@ -5344,6 +5647,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MyHero",
@@ -5359,6 +5663,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoKitties",
@@ -5374,6 +5679,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cuboids",
@@ -5389,6 +5695,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto - YouCollect",
@@ -5410,6 +5717,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Acquisition Royale",
@@ -5425,6 +5733,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Embersword Land",
@@ -5440,6 +5749,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BitiBot",
@@ -5455,6 +5765,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BunnyPark NFT BigBang Blind Box",
@@ -5470,6 +5781,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "catsworld potion",
@@ -5497,6 +5809,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Dragon Kart NFT",
@@ -5512,6 +5825,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Gladiators Soul Stone",
@@ -5527,6 +5841,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Hero Cat GameFi",
@@ -5548,6 +5863,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "0xUniverse",
@@ -5563,6 +5879,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Nine Tales NFT Official",
@@ -5578,6 +5895,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ethergotchi",
@@ -5599,6 +5917,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ArenaGolf-Golfer-NFT",
@@ -5614,6 +5933,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Chainbreakers Items",
@@ -5641,6 +5961,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoDerby",
@@ -5656,6 +5977,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Sprites",
@@ -5677,6 +5999,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CrypoConsoles",
@@ -5692,6 +6015,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoFeather",
@@ -5713,6 +6037,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Masterpieces",
@@ -5728,6 +6053,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Pepe",
@@ -5749,6 +6075,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoTeam",
@@ -5764,6 +6091,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "PLANET",
@@ -5779,6 +6107,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "DragonsETH.com Dragon",
@@ -5794,6 +6123,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Drakons",
@@ -5809,6 +6139,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Economeme Meme",
@@ -5824,6 +6155,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherEstates.io Estate",
@@ -5839,6 +6171,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "FABGToken",
@@ -5854,6 +6187,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "GOBLand",
@@ -5869,6 +6203,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Glitch-Goons",
@@ -5884,6 +6219,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Gods Unchained",
@@ -5899,6 +6235,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ImmortalPlayerCharacter",
@@ -5914,6 +6251,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Lofi Kitties",
@@ -5929,6 +6267,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LORDLESS",
@@ -5944,6 +6283,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Parallel World Cup",
@@ -5959,6 +6299,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Sonar Moji",
@@ -5974,6 +6315,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Spirit Orb Pets v0",
@@ -5989,6 +6331,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "UnicornGO",
@@ -6004,6 +6347,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "0xUniverse",
@@ -6031,6 +6375,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Drakons",
@@ -6046,6 +6391,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Karmaverse Zombie Ascension Material",
@@ -6079,6 +6425,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Numbre",
@@ -6094,6 +6441,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Creatures",
@@ -6109,6 +6457,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Factory",
@@ -6124,6 +6473,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "DNAxCAT Skill NFT",
@@ -6139,6 +6489,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Mythic Creeps v3",
@@ -6166,6 +6517,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "SamuraiLand",
@@ -6181,6 +6533,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Binance Regular NFT",
@@ -6196,6 +6549,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Ghosty NFT Pass",
@@ -6211,6 +6565,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ASMAIFAAllStarsBoxSet",
@@ -6226,6 +6581,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BlockMagic Items",
@@ -6241,6 +6597,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCommand",
@@ -6256,6 +6613,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoDynasty",
@@ -6271,6 +6629,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSocialMedia",
@@ -6286,6 +6645,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCelebrity",
@@ -6301,6 +6661,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoEmojis",
@@ -6316,6 +6677,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoFootball.top",
@@ -6331,6 +6693,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMiner World",
@@ -6364,6 +6727,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoCars",
@@ -6379,6 +6743,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSaga Hero",
@@ -6394,6 +6759,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSportStars",
@@ -6409,6 +6775,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EmontFrenzy",
@@ -6430,6 +6797,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherCities",
@@ -6445,6 +6813,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherGirls",
@@ -6460,6 +6829,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WAR Token",
@@ -6475,6 +6845,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Etherbots",
@@ -6490,6 +6861,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherStrike",
@@ -6505,6 +6877,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EverDragons",
@@ -6520,6 +6893,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ExoPlanets",
@@ -6541,6 +6915,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HyperDragons",
@@ -6556,6 +6931,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LucidSight-MLB-NFT",
@@ -6571,6 +6947,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Northern Guilds - Guild of Thor",
@@ -6586,6 +6963,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "PodgarioLoot",
@@ -6601,6 +6979,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Sipher INU",
@@ -6616,6 +6995,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Loot with images (for adventurer)",
@@ -6631,6 +7011,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Riot Racers Cars",
@@ -6652,6 +7033,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Baby Azuki Social Club",
@@ -6667,6 +7049,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Pizza Game Chefs",
@@ -6688,6 +7071,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoSword",
@@ -6703,6 +7087,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Bow",
@@ -6754,6 +7139,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HeroVerse Hero",
@@ -6769,6 +7155,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "LightYearHero",
@@ -6796,6 +7183,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MezurashiNFT",
@@ -6811,6 +7199,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Chest Collection",
@@ -6832,6 +7221,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Type01",
@@ -6847,6 +7237,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "XVFight",
@@ -6874,6 +7265,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "angel-battles",
@@ -6895,6 +7287,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "BitGallery",
@@ -6910,6 +7303,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoRomeWonder",
@@ -6943,6 +7337,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Servant",
@@ -6958,6 +7353,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypton",
@@ -6979,6 +7375,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Crypto Landmarks",
@@ -6994,6 +7391,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoRides",
@@ -7009,6 +7407,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoChemistry",
@@ -7024,6 +7423,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "cryptoballers",
@@ -7045,6 +7445,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoMilitary",
@@ -7060,6 +7461,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPets",
@@ -7075,6 +7477,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPornstars",
@@ -7090,6 +7493,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "CryptoPuppies",
@@ -7105,6 +7509,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EmojiBlockchain",
@@ -7126,6 +7531,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "etherdoodle",
@@ -7147,6 +7553,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "EtherIslands",
@@ -7162,6 +7569,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "F1® Delta Time",
@@ -7177,6 +7585,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "HiPrecious",
@@ -7192,6 +7601,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "ACore",
@@ -7207,6 +7617,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "NiftyDegen",
@@ -7222,6 +7633,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Raini: The Lords Of Light - Card Packs",
@@ -7237,6 +7649,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "RiotCatsItems",
@@ -7258,6 +7671,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Splinterlands",
@@ -7273,6 +7687,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "SuperWorld",
@@ -7288,6 +7703,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "The Sandbox",
@@ -7303,6 +7719,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "WorldCupToken",
@@ -7318,6 +7735,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Yolo Dice",
@@ -7333,6 +7751,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Cyborg Legends",
@@ -7348,6 +7767,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Founding Fathers",
@@ -7411,6 +7831,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "Hexarchia Warlords",
@@ -7426,6 +7847,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "MoonieNFT Official Collection",
@@ -7441,6 +7863,7 @@
         "logo_url": "",
         "cover_url": "",
         "genres": "",
+        "type": "other",
         "collections": [
             {
                 "collection_name": "World Of Quests Character",
