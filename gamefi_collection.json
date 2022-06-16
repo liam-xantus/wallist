@@ -7873,6 +7873,35 @@
                     "chain_id": 137
                 }
             ]
+        },
+        {
+            "name": "Metastrike",
+            "description": "A Blockchain-based, Role-Playing, First Person Shooter Game, Metaverse*",
+            "logo_url": "https://metastrike.io/assets/images/logo100.png",
+            "cover_url": "https://metastrike.io/assets/images/Cover.png",
+            "creator": "Metastrike",
+            "genres": "FPS",
+            "type":"featured",
+            "collections": [
+                {
+                    "contract_address": "0x50Bf69324A9be94673A2207427C5bebd8f63D76A",
+                    "chain_id": 56,
+                    "collection_name": "Metastrike Weapon",
+                    "template_uri": "https://resource.metastrike.io/mts/%s"
+                },
+                {
+                    "contract_address": "0x4Ca3cB37dE06Fd80e79af8533713b377687b15C5",
+                    "chain_id": 56,
+                    "collection_name": "Metastrike Metal",
+                    "template_uri": "https://resource.metastrike.io/metal/%s.json"
+                },
+                {
+                    "contract_address": "0x3A7D3A7C38e49A7B1fE893b1CA197e57292CD602",
+                    "chain_id": 56,
+                    "collection_name": "Metastrike Box",
+                    "template_uri": "https://resource.metastrike.io/box/%s.json"
+                }
+            ]
         }
     ]
 }
