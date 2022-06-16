@@ -1,141 +1,142 @@
 {
-	"games": [{
-		"name": "Mones",
-		"description":"Mones is a Hero-collecting RPG where you collect over 200 hero characters, turn them into skilled warriors through training then fight in PvE/PvP battles to take over the kingdom.",
-		"logo_url":"https://cdn.mones.io/static/mones-collection-logo.png",
-		"cover_url":"https://cdn.mones.io/static/mones-collection-cover.png",
-		"creator":"Mones Game",
-		"genres":"RPG",
-        "type": "featured",
-		"collections": [
+	"games": [
 		{
-			"contract_address": "0xC7FC0E4E884984b659125Fc4339d13d7c3289789",
-			"chain_id": 43113,
-			"collection_name": "Mones Hero",
-			"template_uri": "https://metadata.mones.io/heroes/%s"
+			"name": "Mones",
+			"description": "Mones is a Hero-collecting RPG where you collect over 200 hero characters, turn them into skilled warriors through training then fight in PvE/PvP battles to take over the kingdom.",
+			"logo_url": "https://cdn.mones.io/static/mones-collection-logo.png",
+			"cover_url": "https://cdn.mones.io/static/mones-collection-cover.png",
+			"creator": "Mones Game",
+			"genres": "RPG",
+			"type": "featured",
+			"collections": [
+				{
+					"contract_address": "0xC7FC0E4E884984b659125Fc4339d13d7c3289789",
+					"chain_id": 43113,
+					"collection_name": "Mones Hero",
+					"template_uri": "https://metadata.mones.io/heroes/%s"
+				},
+				{
+					"contract_address": "0xe59a9602812fa554F46490Ae63F71E344ED5230A",
+					"chain_id": 43113,
+					"collection_name": "Mones Equipment",
+					"template_uri": "https://metadata.mones.io/equipment/%s"
+				},
+				{
+					"contract_address": "0x08fcbc216A054923f53CDc3d46396b1F443175E8",
+					"chain_id": 43113,
+					"collection_name": "Mones Material",
+					"template_uri": "https://metadata.mones.io/material/%s"
+				},
+				{
+					"contract_address": "0x57bf666A1D3D763b15A4e2F390026121097f9C0f",
+					"chain_id": 43113,
+					"collection_name": "Mones Hero Chest",
+					"template_uri": "https://storage.mones.io/chest/%s"
+				},
+				{
+					"contract_address": "0x95DF96c84a7566739339EF5d9F4BD849C2DbEb38",
+					"chain_id": 43113,
+					"collection_name": "Mones Equipment Chest",
+					"template_uri": "https://metadata.mones.io/chestEquipment/%s"
+				}
+			]
 		},
 		{
-			"contract_address": "0xe59a9602812fa554F46490Ae63F71E344ED5230A",
-			"chain_id": 43113,
-			"collection_name": "Mones Equipment",
-			"template_uri": "https://metadata.mones.io/equipment/%s"
+			"name": "Step Hero",
+			"description": "The one-stop shop for P2E gamers which brings you extraordinary gaming experience & lucrative earning opportunities.",
+			"logo_url": "https://cdn.stephero.io/static/stephero-collection-logo.png",
+			"cover_url": "https://cdn.stephero.io/static/stephero-collection-cover.png",
+			"creator": "StepHero Multiverse",
+			"genres": "RPG",
+			"type": "featured",
+			"collections": [
+				{
+					"contract_address": "0x17C79D387F8F16FA8A4f44864812FbA41f72De70",
+					"collection_name": "Step Hero",
+					"template_uri": "https://api.stephero.io/v1/heroes/%s.json"
+				},
+				{
+					"contract_address": "0x206Edd24D5Cc90c5c789b8591f34D7E972C55874",
+					"chain_id": 97,
+					"collection_name": "Step Hero Chest",
+					"template_uri": "https://api.stephero.io/chest/%s.json"
+				},
+				{
+					"contract_address": "0x251FdDe7BfDBcFd4e5cC60cB0Ef7D72CF405C10d",
+					"chain_id": 97,
+					"collection_name": "Step Hero Chest V2",
+					"template_uri": "https://api.stephero.io/chestV2/%s.json"
+				},
+				{
+					"contract_address": "0x024E39D951C49569612ACd4ACa05fB226b00eEE7",
+					"chain_id": 97,
+					"collection_name": "Step Hero Equipment",
+					"template_uri": "https://api.stephero.io/stephero/equipment/%s.json"
+				}
+			]
 		},
 		{
-			"contract_address": "0x08fcbc216A054923f53CDc3d46396b1F443175E8",
-			"chain_id": 43113,
-			"collection_name": "Mones Material",
-			"template_uri": "https://metadata.mones.io/material/%s"
+			"name": "Gunfire Hero",
+			"description": "Gunfire Hero is the second blockchain game in the Step Hero Play-to-earn Multiverse. Gunfire Hero is a combat shooter game that features automatic shooting gameplay, players only need to control the movement of the character, the shooting is completely automatic, and the monsters will have no place to hide.",
+			"logo_url": "https://cdn.stephero.io/static/gunfirehero-collection-logo.png",
+			"cover_url": "https://cdn.stephero.io/static/gunfirehero-collection-cover.png",
+			"creator": "StepHero Multiverse",
+			"genres": "Action Casual Run-&-Gun",
+			"type": "featured",
+			"collections": [
+				{
+					"contract_address": "0xeBFD6A90534e30B22B25232C74661b822E13743D",
+					"chain_id": 97,
+					"collection_name": "Gunfire",
+					"template_uri": "https://api.stephero.io/gunfire/%s.json"
+				},
+				{
+					"contract_address": "0xf15DE60AF24A5B12d17437b4ab476dCB4725D2c8",
+					"chain_id": 97,
+					"collection_name": "Gunfire Chest",
+					"template_uri": "https://api.stephero.io/gunfire/chest/%s.json"
+				}
+			]
 		},
 		{
-			"contract_address": "0x57bf666A1D3D763b15A4e2F390026121097f9C0f",
-			"chain_id": 43113,
-			"collection_name": "Mones Hero Chest",
-			"template_uri": "https://storage.mones.io/chest/%s"
+			"name": "Gunfire Avax",
+			"description": "Gunfire AVAX is an old-school style 2D NFT project based on #Avalanche. Designed with the users at heart, GF AVAX will undoubtedly revolutionize the NFT games ecosystem on the Avalanche network with an easy, intuitive gameplay and innovative economic mechanism.",
+			"logo_url": "https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
+			"cover_url": "https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
+			"creator": "Gunfire",
+			"genres": "Action Casual Run-&-Gun",
+			"type": "featured",
+			"collections": [
+				{
+					"contract_address": "0x86dB580d11b8dA0c16FeD2c8010187350747e522",
+					"chain_id": 43113,
+					"collection_name": "Gunfire",
+					"template_uri": "https://api.gamehub.dev.xantus.dev/o/nft/%s"
+				},
+				{
+					"contract_address": "0x347f10f2D338cC20c3a9E266B9c825AB056F39F2",
+					"chain_id": 43113,
+					"collection_name": "Gunfire Avax Chest",
+					"template_uri": "https://api.gunfireavax.io/chest/%s.json"
+				}
+			]
 		},
 		{
-			"contract_address": "0x95DF96c84a7566739339EF5d9F4BD849C2DbEb38",
-			"chain_id": 43113,
-			"collection_name": "Mones Equipment Chest",
-			"template_uri": "https://metadata.mones.io/chestEquipment/%s"
+			"name": "Metadoge",
+			"description": "Metadoge is an BSC blockchain ecosystem of Space Doge that includes many entertaining products. All products of Metadoge use the same Metadoge NFTs and all play an important role in the economy system.",
+			"logo_url": "https://metadoge.ai/images/doges/metadoge-logo.png",
+			"cover_url": "https://metadoge.ai/images/doges/metadoge-cover.png",
+			"creator": "Dream Holdings",
+			"genres": "Action Casual",
+			"type": "featured",
+			"collections": [
+				{
+					"contract_address": "0x880B49C2b14a7947AEf445F2747639722C5F6423",
+					"chain_id": 97,
+					"collection_name": "Doges",
+					"template_uri": "https://testnet-oxalus.metadoge.ai/doge/%s"
+				}
+			]
 		}
-		]
-	},
-	{
-		"name": "Step Hero",
-		"description":"The one-stop shop for P2E gamers which brings you extraordinary gaming experience & lucrative earning opportunities.",
-		"logo_url":"https://cdn.stephero.io/static/stephero-collection-logo.png",
-		"cover_url":"https://cdn.stephero.io/static/stephero-collection-cover.png",
-		"creator":"StepHero Multiverse",
-		"genres":"RPG",
-        "type": "featured",
-		"collections": [
-		{
-			"contract_address": "0x17C79D387F8F16FA8A4f44864812FbA41f72De70",
-			"collection_name": "Step Hero",
-			"template_uri": "https://api.stephero.io/v1/heroes/%s.json"
-		},
-		{
-			"contract_address": "0x206Edd24D5Cc90c5c789b8591f34D7E972C55874",
-			"chain_id": 97,
-			"collection_name": "Step Hero Chest",
-			"template_uri": "https://api.stephero.io/chest/%s.json"
-		},
-		{
-			"contract_address": "0x251FdDe7BfDBcFd4e5cC60cB0Ef7D72CF405C10d",
-			"chain_id": 97,
-			"collection_name": "Step Hero Chest V2",
-			"template_uri": "https://api.stephero.io/chestV2/%s.json"
-		},
-		{
-			"contract_address": "0x024E39D951C49569612ACd4ACa05fB226b00eEE7",
-			"chain_id": 97,
-			"collection_name": "Step Hero Equipment",
-			"template_uri": "https://api.stephero.io/stephero/equipment/%s.json"
-		}
-		]
-	},
-	{
-		"name": "Gunfire Hero",	
-		"description":"Gunfire Hero is the second blockchain game in the Step Hero Play-to-earn Multiverse. Gunfire Hero is a combat shooter game that features automatic shooting gameplay, players only need to control the movement of the character, the shooting is completely automatic, and the monsters will have no place to hide.",
-		"logo_url":"https://cdn.stephero.io/static/gunfirehero-collection-logo.png",
-		"cover_url":"https://cdn.stephero.io/static/gunfirehero-collection-cover.png",
-		"creator":"StepHero Multiverse",
-		"genres":"Action Casual Run-&-Gun",
-        "type": "featured",
-		"collections": [
-		{
-			"contract_address": "0xeBFD6A90534e30B22B25232C74661b822E13743D",
-			"chain_id": 97,
-			"collection_name": "Gunfire",
-			"template_uri": "https://api.stephero.io/gunfire/%s.json"
-		},
-		{
-			"contract_address": "0xf15DE60AF24A5B12d17437b4ab476dCB4725D2c8",
-			"chain_id": 97,
-			"collection_name": "Gunfire Chest",
-			"template_uri": "https://api.stephero.io/gunfire/chest/%s.json"
-		}
-		]
-	},
-	{
-		"name": "Gunfire Avax",	
-		"description":"Gunfire AVAX is an old-school style 2D NFT project based on #Avalanche. Designed with the users at heart, GF AVAX will undoubtedly revolutionize the NFT games ecosystem on the Avalanche network with an easy, intuitive gameplay and innovative economic mechanism.",
-		"logo_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-logo.png",
-		"cover_url":"https://cdn.gunfireavax.io/static/gunfireavax-collection-cover.png",
-		"creator":"Gunfire",
-		"genres":"Action Casual Run-&-Gun",
-        "type": "featured",
-		"collections": [
-		{
-			"contract_address": "0x86dB580d11b8dA0c16FeD2c8010187350747e522",
-			"chain_id": 43113,
-			"collection_name": "Gunfire",
-			"template_uri": "https://api.gamehub.dev.xantus.dev/o/nft/%s"
-		},
-		{
-			"contract_address": "0x347f10f2D338cC20c3a9E266B9c825AB056F39F2",
-			"chain_id": 43113,
-			"collection_name": "Gunfire Avax Chest",
-			"template_uri": "https://api.gunfireavax.io/chest/%s.json"
-		}
-		]
-	},
-	{
-		"name": "Metadoge",
-		"description":"Metadoge is an BSC blockchain ecosystem of Space Doge that includes many entertaining products. All products of Metadoge use the same Metadoge NFTs and all play an important role in the economy system.",
-		"logo_url":"https://metadoge.ai/images/doges/metadoge-logo.png",
-		"cover_url":"https://metadoge.ai/images/doges/metadoge-cover.png",
-		"creator":"Dream Holdings",
-		"genres":"Action Casual",
-        "type": "featured",
-		"collections": [
-		{
-			"contract_address": "0x880B49C2b14a7947AEf445F2747639722C5F6423",
-			"chain_id": 97,
-			"collection_name": "Doges",
-			"template_uri": "https://testnet-oxalus.metadoge.ai/doge/%s"
-		}
-		]
-	}
 	]
 }
