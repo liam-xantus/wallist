@@ -4460,7 +4460,8 @@
         ]
     },
     {
-        "name": "Ether"s Ark", "description": "Ether"s Ark",
+        "name": "Ether's Ark", 
+        "description": "Ether's Ark",
         "logo_url": "",
         "cover_url": "",
         "genres": "",
@@ -5464,7 +5465,8 @@
         ]
     },
     {
-        "name": "Cat"s World", "description": "Cat"s World",
+        "name": "Cat's World", 
+        "description": "Cat's World",
         "logo_url": "",
         "cover_url": "",
         "genres": "",
@@ -6903,7 +6905,8 @@
         ]
     },
     {
-        "name": "Caesar"s Triumph", "description": "Caesar"s Triumph",
+        "name": "Caesar's Triumph",
+        "description": "Caesar's Triumph",
         "logo_url": "",
         "cover_url": "",
         "genres": "",
