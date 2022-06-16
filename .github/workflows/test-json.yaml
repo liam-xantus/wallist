@@ -1,0 +1,15 @@
+name: Check Json Format
+on: 
+  pull_request:
+    branches:
+    - main
+    - develop
+
+  json-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: json-syntax-check
+        uses: limitusus/json-syntax-check@v1
+        with:
+          pattern: "gamefi_collection_testnet.json|gamefi_collection.json"
