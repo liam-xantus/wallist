@@ -332,27 +332,6 @@
         ]
     },
     {
-        "name": "Squid NFT World",
-        "description": "Squid NFT World",
-        "logo_url": "",
-        "cover_url": "",
-        "genres": "",
-        "collections": [
-            {
-                "collection_name": "Biswap Squid Buses",
-                "contract_address": "0x6d57712416ed4890e114a37e2d84ab8f9cee4752",
-                "template_uri": "",
-                "chain_id": 56
-            },
-            {
-                "collection_name": "Biswap Squid Players",
-                "contract_address": "0xb00ed7e3671af2675c551a1c26ffdcc5b425359b",
-                "template_uri": "",
-                "chain_id": 56
-            }
-        ]
-    },
-    {
         "name": "StarMon",
         "description": "StarMon",
         "logo_url": "",
@@ -3251,21 +3230,6 @@
         ]
     },
     {
-        "name": "Sunflower Land",
-        "description": "Sunflower Land",
-        "logo_url": "",
-        "cover_url": "",
-        "genres": "",
-        "collections": [
-            {
-                "collection_name": "Sunflower Land",
-                "contract_address": "0x2b4a66557a79263275826ad31a4cddc2789334bd",
-                "template_uri": "",
-                "chain_id": 137
-            }
-        ]
-    },
-    {
         "name": "Veggies Farm",
         "description": "Veggies Farm",
         "logo_url": "",
@@ -3572,33 +3536,6 @@
             {
                 "collection_name": "SamuraiRising",
                 "contract_address": "0xc3c3b849ed5164fb626c4a4f78e0675907b2c94e",
-                "template_uri": "",
-                "chain_id": 56
-            }
-        ]
-    },
-    {
-        "name": "X World Games",
-        "description": "X World Games",
-        "logo_url": "",
-        "cover_url": "",
-        "genres": "",
-        "collections": [
-            {
-                "collection_name": "XWorld Talent",
-                "contract_address": "0x3c506da0e74ce74ec23a9f0316013f751e431b89",
-                "template_uri": "",
-                "chain_id": 56
-            },
-            {
-                "collection_name": "XWG DC Level Prize",
-                "contract_address": "0xbe6bfe2cd66f2d9721186717cfa8dd99ef43c0bd",
-                "template_uri": "",
-                "chain_id": 56
-            },
-            {
-                "collection_name": "DreamCard",
-                "contract_address": "0xe6965b4f189dbdb2bd65e60abaeb531b6fe9580b",
                 "template_uri": "",
                 "chain_id": 56
             }
@@ -4298,21 +4235,6 @@
             {
                 "collection_name": "LG Essence Ticket",
                 "contract_address": "0x3b3914b2428682303774b40a7177db715a11c746",
-                "template_uri": "",
-                "chain_id": 56
-            }
-        ]
-    },
-    {
-        "name": "SecondLive",
-        "description": "SecondLive",
-        "logo_url": "",
-        "cover_url": "",
-        "genres": "",
-        "collections": [
-            {
-                "collection_name": "SecondLive",
-                "contract_address": "0x17316bb0b16a57177272dd88617841037bcec3d3",
                 "template_uri": "",
                 "chain_id": 56
             }
